@@ -1,0 +1,19 @@
+In Part s and part d. 
+Part c : without Composite
+Advantages:
+1. Less memory Usage
+
+Disadvantage:
+2.Violation of Open- closed principle
+
+Part D: with composite
+Advanatages
+Easy Access to nested structures
+Code clarity
+Support for expandability
+
+Disadvantage
+1. Difficulty in Restricting Compositeobjets
+2. Overly General Tree Structures
+
+
